@@ -54,11 +54,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 这是Coucou的博客网站
+        subtitle: 这是saberking29的博客网站
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/touxiang.jpg
 
     article:
         math: false
